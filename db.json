@@ -1,0 +1,20 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Tesla Model S",
+        "price": 80000,
+        "model": "Model S",
+        "year": 2023,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tesla_Model_S_Plaid_IMG_4606.jpg/1200px-Tesla_Model_S_Plaid_IMG_4606.jpg"
+      },
+      {
+        "id": 2,
+        "name": "BMW M3",
+        "price": 70000,
+        "model": "M3",
+        "year": 2022,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2021_BMW_M3_Competition.jpg/1200px-2021_BMW_M3_Competition.jpg"
+      }
+    ]
+  }
